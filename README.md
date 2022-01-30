@@ -1,9 +1,11 @@
 # The-city-Companion
 
 1.1.	PURPOSE
+<br>
 This SRS document describes the functional and non-functional requirements along with other necessary information about our project titled “THE CITY COMPANION”.
 The primary aim is to design a web-based product which can store all the possible information of cities, timely updates the information, thereby serving as a VIRTUAL CITY GUIDE.
 
+</br>
 The objectives are:
 1.	To bring together various aspects of a city at one place. 
 2.	To create an application which turns out to be very time and effort optimised for users.
