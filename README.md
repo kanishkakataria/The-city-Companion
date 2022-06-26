@@ -1,9 +1,9 @@
 # The-city-Companion
-(A group project)
+
 
 <h3> 1.1 PURPOSE</h3>
 <br>
-This SRS document describes the functional and non-functional requirements along with other necessary information about our project titled “THE CITY COMPANION”.
+This readme describes the functional and non-functional requirements along with other necessary information about my project titled “THE CITY COMPANION”.
 The primary aim is to design a web-based product which can store all the possible information of cities, timely updates the information, thereby serving as a VIRTUAL CITY GUIDE.
 
 </br>
@@ -13,7 +13,7 @@ The primary aim is to design a web-based product which can store all the possibl
 2.	To create an application which turns out to be very time and effort optimised for users.
 3.	</br>
 
-<h3> 2.1PROJECT PERSPECTIVE</h3>
+<h3> 2.1 PROJECT PERSPECTIVE</h3>
 <br>
 In the existing scenario anyone visiting the city, i.e., a tourist, people re-locating to city and in search of educational or health care facilities have to surf through multiple websites in-order to gather complete information about a city.
 Through this project, we aim to over-come this limitation by proving a user friendly, more efficient and time saving experience to users.
